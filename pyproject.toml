@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tessera-geo"
+version = "0.1.0"
+description = "Join tabular data to administrative boundaries and render it as an SVG choropleth. Standard library only."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Ram Sai Kandagatla", email = "ramsaikandagatla@gmail.com" }]
+keywords = ["geospatial", "choropleth", "geojson", "data-engineering", "svg", "fuzzy-matching"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering :: GIS",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.urls]
+Homepage = "https://github.com/ramsai676/tessera"
+Source = "https://github.com/ramsai676/tessera"
+
+[project.scripts]
+tessera = "tessera.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["tessera*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,40 @@
+district,crop,hectares
+NORTHVALE,Rice,"1,414.2"
+NORTHVALE,Cotton,701.5
+NORTHVALE,Millet,"2,761.9"
+Eastmarch,Rice,378.4
+Eastmarch,Cotton,"2,287.8"
+Eastmarch,Millet,"1,586.6"
+West-ford,Rice,319.0
+West-ford,Cotton,"2,170.6"
+West-ford,Millet,234.5
+Southbury,Rice,"1,866.6"
+Southbury,Cotton,367.8
+Southbury,Millet,453.7
+Highmoor,Rice,"1,829.0"
+Highmoor,Cotton,"3,486.6"
+Highmoor,Millet,590.1
+Lakeside District,Rice,999.7
+Lakeside District,Cotton,"2,665.0"
+Lakeside District,Millet,"3,984.6"
+Riverton,Rice,"2,457.7"
+Riverton,Cotton,"1,714.3"
+Riverton,Millet,"4,102.2"
+Stonebrigde,Rice,271.9
+Stonebrigde,Cotton,"3,616.9"
+Stonebrigde,Millet,"1,273.2"
+Fairhaven,Rice,674.3
+Fairhaven,Cotton,565.3
+Fairhaven,Millet,"1,350.9"
+Oakdale,Rice,"3,442.4"
+Oakdale,Cotton,824.6
+Oakdale,Millet,"2,476.2"
+Millbrook,Rice,"2,712.3"
+Millbrook,Cotton,"1,614.3"
+Millbrook,Millet,"2,336.7"
+Grayfell,Rice,338.7
+Grayfell,Cotton,325.6
+Grayfell,Millet,928.5
+Ashcombe,Rice,900
+Oakdale,Cotton,n/a
+Millbrook,Millet,(12)

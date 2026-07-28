@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="821" viewBox="0 0 900 821" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="30" font-size="19" font-weight="600" fill="#12161c">Cultivated area by district</text>
+<text x="24" y="47" font-size="12.5" fill="#626b78">Hectares, all crops — synthetic sample data</text>
+<g transform="translate(0,54)">
+<path d="M32.8,682.8 L249.8,685.4 L246.0,464.0 L24.0,459.3 L32.8,682.8 Z" fill="#a7c7e0" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Northvale: 4.9k</title></path>
+<path d="M229.6,673.2 L436.9,684.8 L448.6,448.4 L232.4,468.9 L229.6,673.2 Z" fill="#cfe0ee" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Eastmarch: 4.3k</title></path>
+<path d="M455.3,655.8 L659.9,674.5 L673.1,474.8 L462.9,466.6 L455.3,655.8 Z" fill="#eef3f8" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Westford: 2.7k</title></path>
+<path d="M645.6,683.9 L857.3,660.3 L853.1,456.7 L661.9,463.8 L645.6,683.9 Z" fill="#eef3f8" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Southbury: 2.7k</title></path>
+<path d="M40.2,474.3 L230.3,469.5 L250.8,250.5 L32.5,245.1 L40.2,474.3 Z" fill="#a7c7e0" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Highmoor: 5.9k</title></path>
+<path d="M243.3,466.3 L460.8,452.8 L442.7,245.5 L245.7,235.3 L243.3,466.3 Z" fill="#3a7cb0" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Lakeside: 7.6k</title></path>
+<path d="M458.7,466.7 L673.2,472.4 L654.7,239.3 L439.6,248.4 L458.7,466.7 Z" fill="#3a7cb0" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Riverton: 8.3k</title></path>
+<path d="M642.1,453.8 L872.3,457.0 L876.0,254.3 L663.8,244.8 L642.1,453.8 Z" fill="#a7c7e0" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Stonebridge: 5.2k</title></path>
+<path d="M41.2,249.5 L256.1,233.0 L244.0,31.0 L24.1,29.7 L41.2,249.5 Z" fill="#cfe0ee" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Fairhaven: 3.5k</title></path>
+<path d="M249.7,231.4 L461.7,255.3 L447.3,30.9 L229.1,37.9 L249.7,231.4 Z" fill="#6fa5cd" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Oakdale: 6.7k</title></path>
+<path d="M440.1,261.0 L642.8,239.0 L645.1,45.1 L447.5,24.0 L440.1,261.0 Z" fill="#6fa5cd" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Millbrook: 6.7k</title></path>
+<path d="M643.5,249.8 L865.2,235.1 L874.1,24.3 L650.0,39.4 L643.5,249.8 Z" fill="#eef3f8" stroke="#ffffff" stroke-width="0.7" fill-rule="evenodd"><title>Greyfell: 1.6k</title></path>
+</g>
+<g transform="translate(24,781)">
+<rect x="0" y="0" width="26" height="11" fill="#eef3f8"/>
+<text x="0" y="25" font-size="9.5" fill="#626b78">1.6k</text>
+<rect x="28" y="0" width="26" height="11" fill="#cfe0ee"/>
+<text x="28" y="25" font-size="9.5" fill="#626b78">2.7k</text>
+<rect x="56" y="0" width="26" height="11" fill="#a7c7e0"/>
+<text x="56" y="25" font-size="9.5" fill="#626b78">4.3k</text>
+<rect x="84" y="0" width="26" height="11" fill="#6fa5cd"/>
+<text x="84" y="25" font-size="9.5" fill="#626b78">5.9k</text>
+<rect x="112" y="0" width="26" height="11" fill="#3a7cb0"/>
+<text x="112" y="25" font-size="9.5" fill="#626b78">6.7k</text>
+<text x="138" y="25" font-size="9.5" fill="#626b78" text-anchor="end">8.3k</text>
+<rect x="158" y="0" width="26" height="11" fill="#e6e8eb"/><text x="158" y="25" font-size="9.5" fill="#626b78">no data</text>
+</g></svg>
