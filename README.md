@@ -1,6 +1,21 @@
-<div align="center">
+<!-- header:start -->
+<p align="center">
+  <img src=".github/banner.png" alt="Tessera: Join data to boundaries, see honestly what didn't match, render an SVG choropleth." width="100%">
+</p>
 
-# Tessera
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-1f2937?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-3b82f6?style=flat-square" alt="MIT license"></a>
+  <img src="https://img.shields.io/badge/tests-included-22c55e?style=flat-square" alt="Tests included">
+</p>
+
+<p align="center">
+  <img src="data/cultivated-area.svg" alt="Tessera screenshot" width="70%">
+</p>
+
+<!-- header:end -->
+
+<div align="center">
 
 **The unglamorous middle of geospatial work, done honestly.**
 
